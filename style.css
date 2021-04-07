@@ -1,0 +1,138 @@
+.mg-top{
+    margin-top:100px;
+}
+.mg-bottom{
+    margin-bottom: 20px;
+}
+
+.pd-top{
+    padding-top: 20px;
+}
+.pd-bottom{
+    padding-bottom: 10px;
+}
+body{
+    background-color: #ffffff;
+}
+
+.theme-heading{
+    color: #febe07;
+}
+.theme-btn{
+    background: rgb(138,180,93);
+}
+p{
+    color: #636465;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 1.8rem;
+    word-spacing: 0.1rem;
+}
+
+.navbar{
+    padding: 16px 0px;
+}
+.navbar-nav > a{
+    margin: 0px 30px;
+}
+
+.land-image > img{
+    width: 100%;
+    text-align: right;
+    overflow: auto;
+}
+
+.search-inp > input{
+    width: 50%;
+    border: none;
+    height: 40px;
+    border-radius: 3px;
+    box-shadow: 3px 3px 5px 3px #eeeeee;
+}
+
+.btn{
+    height: 41px;
+    vertical-align: top;
+    background: linear-gradient(90deg, rgba(138,180,93,1) 5%, rgba(101,158,46,1) 100%);
+    border: none;
+}
+
+.welcome-image{
+    background-color: #f8fbf5;
+}
+.welcome-image > img{
+    width: 100%;
+    height: 400px;
+    overflow: auto;
+    
+}
+.center{
+    text-align: center;
+}
+.card{
+    text-align: center;
+    background-color: #f8fbf5;
+    box-shadow: 3px 3px 5px 3px #eeeeee;
+}
+.card > .icon{
+    margin: 20px auto;
+    width: 20%;
+}
+
+.card:hover{
+    cursor: pointer;
+    background-color: #ffffff;
+    border-bottom: 3px solid rgba(138,180,93,1);
+}
+.menu{
+    padding-left: 0px;
+}
+.card > .menu-img{
+    height: 200px;
+
+}
+
+.menu-link{
+    padding: 10px;
+    margin: 0;
+    border-left: 3px solid #eeeeee;
+}
+.menu-link:hover{
+    cursor: pointer;
+    color: #febe07;
+    border-left: 3px solid #febe07;
+}
+.price{
+    color: rgba(138,180,93,1);
+    font-weight: bold;
+}
+
+.right-btn{
+    padding: 10px;
+    margin-left: 5px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    box-shadow: 3px 3px 5px 3px #eeeeee;
+}
+
+.left-btn{
+    padding: 10px;
+    margin-right: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    box-shadow: 3px 3px 5px 3px #eeeeee;
+}
+
+.news-card{
+    border: none;
+    box-shadow: none;
+    background-color: #ffffff;
+    
+}
+.news-card > img{
+    border-radius: 10px;
+}
+.news-card > .card-body{
+    text-align: left;
+    padding-left: 0;
+}
