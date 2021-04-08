@@ -136,3 +136,27 @@ p{
     text-align: left;
     padding-left: 0;
 }
+
+.email-inp{
+    width: 370px;
+    padding: 5px;
+    margin:  0 auto;
+    border-radius: 30px;
+    background-color: #ffffff;
+    box-shadow: 3px 3px 5px 3px #eeeeee;
+    
+}
+
+.email-inp > input{
+    width: 300px;
+    border: none;
+    margin: 8px 0px 8px 15px;
+    /* vertical-align: middle; */
+}
+.email-inp > input:focus{
+    outline: none;
+}
+.email-inp > button{
+    padding: 0 10px;
+    border-radius: 100%;
+}
