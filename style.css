@@ -38,8 +38,7 @@ p{
 
 .land-image > img{
     width: 100%;
-    text-align: right;
-    overflow: auto;
+    
 }
 
 .search-inp > input{
