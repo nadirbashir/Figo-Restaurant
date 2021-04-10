@@ -11,6 +11,7 @@
 .pd-bottom{
     padding-bottom: 10px;
 }
+
 body{
     background-color: #ffffff;
 }
@@ -158,4 +159,13 @@ p{
 .email-inp > button{
     padding: 0 10px;
     border-radius: 100%;
+}
+
+.footer{
+    padding-top: 20px;
+    background-color: #f8fbf5;
+    justify-content: space-around;
+}
+a{
+    color: #636465;
 }
